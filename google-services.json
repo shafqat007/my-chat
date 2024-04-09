@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "865184900808",
+    "project_id": "chattingapp-a4963",
+    "storage_bucket": "chattingapp-a4963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865184900808:android:fa151acba487ce9b1b27fd",
+        "android_client_info": {
+          "package_name": "com.shafqat007.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKT6exmwZKhPzeZbi0t4mXYW8Fftl4SWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
