@@ -3,6 +3,7 @@ import { View, Text, TextInput, TouchableOpacity, Dimensions} from 'react-native
 import firestore from '@react-native-firebase/firestore';
 import DatePicker from 'react-native-datepicker';
 import {Picker } from '@react-native-picker/picker';
+/*import {Picker } from '@react-native-picker/picker';*/
 
 export default function Detail({route,navigation}) {
     const {uid} =route.params;
